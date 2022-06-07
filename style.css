@@ -221,7 +221,10 @@ color: var(--color-yellow);
 }
 
 footer {
-    width: 100%;
+    top: 0;
+    left: auto;
+    right: auto;
+    width: 100vw;
     height: 300px;
     padding-top: 30px;
     background: #222222;
